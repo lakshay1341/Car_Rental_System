@@ -49,5 +49,3 @@ This is a Java OOP project that uses Encapsulation. The project involves creatin
 This project is licensed under the Apache License 2.0 License.
 
 ---
-
-Feel free to customize this README file further based on your project's specific details and requirements!
